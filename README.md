@@ -26,7 +26,7 @@ While creating this project I learnt about various utilities and jargons of Tail
 
 # Netlify Link
 
-[Røde Clone](https://R0de-clone-rk.netlify.app/)
+[Røde Clone](https://Rode-clone-rk.netlify.app/)
 
 # Thumbnail
 

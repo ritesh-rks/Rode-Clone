@@ -29,4 +29,6 @@ While creating this project I learnt about various utilities and jargons of Tail
 [Røde Clone](https://Rode-clone-rk.netlify.app/)
 
 # Thumbnail
+![screencapture-127-0-0-1-5500-index-html-2022-08-20-18_26_20](https://user-images.githubusercontent.com/109421054/188310728-11d443fa-0910-41e0-8b10-13a3702a861a.png)
+
 
